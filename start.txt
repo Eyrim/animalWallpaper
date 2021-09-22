@@ -1,0 +1,1 @@
+python C:\Users\marfx\Desktop\catWallpaper\animalWallpaper.py
